@@ -107,7 +107,7 @@ const Header = () => {
           <Link to="/">Home</Link>
           <Link to="/#features">Features</Link>
           <Link to="/products">Products</Link>
-          <Link to="/reviews/all">Reviews</Link>
+          {/* <Link to="/reviews/all">Reviews</Link> */}
           <Link to="/about">About Us</Link>
           <Link className="glow-on-hover" onClick={()=>{window.open('https://mockly-ai-three.vercel.app/',"_blank")}}>Try Mockly AI</Link>
 

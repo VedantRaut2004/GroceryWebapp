@@ -31,10 +31,10 @@ const About = () => {
               <h1>Vedant Raut</h1>
               <button
                 onClick={() =>
-                  window.open("https://khamkarpradip.netlify.app/", "_blank")
+                  window.open("https://www.linkedin.com/in/vedant-raut-050b24249/", "_blank")
                 }
               >
-                Visit Website
+                Visit LinkedIn
               </button>
               <br />
               <p>
