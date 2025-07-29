@@ -1,0 +1,38 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/frontend/node_modules
+/frontend/.pnp
+/frontend/.pnp.js
+node_modules
+/backend/.env
+# testing
+/frontend/coverage
+# misc
+/frontend/.DS_Store
+/frontend/.env.local
+/frontend/.env.development.local
+/frontend/.env.test.local
+/frontend/.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+node_modules/
+.env
+client/node_modules/
+build/
+dist/
+
+
+
+MONGODB_URI=your_mongodb_uri
+JWT_SECRET_KEY =jwt_secret_key
+JWT_RESET_PASSWORD_SECRET_KEY = jwt_reset_password_secret_key
+COOKIE_EXPIRE = 5
+SMPT_MAIL = smpt_mail
+SMPT_PASSWORD = smpt_password
+CLOUD_NAME = your_cloudinary_cloud_name
+CLOUD_API_KEY =  your_cloudinary_api_key
+CLOUD_API_SECRET_KEY =  your_cloudinary_api_secret
