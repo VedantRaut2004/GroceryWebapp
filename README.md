@@ -71,6 +71,11 @@ Welcome to the MERN Grocery Shop Project! This project is built using the MERN (
 
 3. Access the application in your web browser at `http://localhost:3000`.
 
+## Documentation Video
+
+https://drive.google.com/file/d/1uoQUU-KCsJoibycivN9BvItNruoSSdVr/view?usp=drive_link
+
+
 ## Technologies
 
 - 📦 **MongoDB**: A NoSQL database for storing data.
