@@ -71,6 +71,12 @@ Welcome to the MERN Grocery Shop Project! This project is built using the MERN (
 
 3. Access the application in your web browser at `http://localhost:3000`.
 
+
+## Project Report
+
+https://docs.google.com/document/d/1Dwusru0ErqEsAm1oa5wff_gbdnCdD43l/edit?usp=drive_link&ouid=118017803082576088127&rtpof=true&sd=true
+
+
 ## Documentation Video
 
 https://drive.google.com/file/d/1uoQUU-KCsJoibycivN9BvItNruoSSdVr/view?usp=drive_link
